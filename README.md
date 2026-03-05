@@ -4,7 +4,7 @@ Automated user and permission management script for Linux
 
 ## Overview
 Automated bash script to create users, 
-groups and set permissions on CentOS 9.
+groups and set permissions on CentOS 7.
 
 ## What This Script Does
 - ✅ Creates 3 groups: dev, ops, hr
